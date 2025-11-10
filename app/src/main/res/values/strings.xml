@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">kalkulatorrafi_086</string>
+    <string-array name="operator_array">
+        <item>+</item>
+        <item>-</item>
+        <item>x</item>
+        <item>:</item>
+    </string-array>
+</resources>
